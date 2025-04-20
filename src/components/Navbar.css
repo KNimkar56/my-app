@@ -1,0 +1,16 @@
+.custom-navbar {
+    background-color: #000D29 !important; /* Midnight Navy */
+  }
+  
+  .navbar-brand,
+  .nav-link {
+    color: #FAF5AF !important; /* Pale Yellow */
+  }
+  
+  .nav-link:hover,
+  .nav-link.active-link {
+    color: #EDECCF !important; /* Light Beige */
+    font-weight: bold;
+    border-bottom: 2px solid #FAF5AF;
+  }
+  
